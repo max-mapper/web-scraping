@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "request": "~2.34.0",
-    "cheerio": "~0.13.1"
+    "cheerio": "~0.13.1",
+    "csv-write-stream": "^0.1.1"
   },
   "devDependencies": {}
 }
